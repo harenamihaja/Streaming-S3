@@ -1,0 +1,6 @@
+port=8888;
+chunk_size=32;
+server_host=localhost;
+server_port=8888;
+paths=storage1,storage2;
+extensions=mp3,mp4;
